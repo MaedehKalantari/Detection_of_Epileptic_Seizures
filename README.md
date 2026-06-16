@@ -72,10 +72,3 @@ The CNN model successfully learned discriminative features from EEG signals and 
 * Scikit-learn
 
 ---
-
-## Project Goal
-
-The main objective is to explore how deep learning models can assist in medical signal interpretation and improve automated diagnosis of neurological disorders such as epilepsy.
-
----
-
